@@ -1,2 +1,2 @@
 # Amanda
-:bowtie:
+:information_desk_person:
